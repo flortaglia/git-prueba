@@ -1,0 +1,26 @@
+* {
+  margin: 0%;
+  padding: 0;
+  box-sizing: border-box; }
+
+html {
+  font-size: 62.5%;
+  font-family: sans-serif; }
+
+main {
+  width: 80vw;
+  margin: 10rem auto;
+  display: flex;
+  flex-direction: column; }
+
+.articulo__titulo {
+  font-size: 4em;
+  font-weight: bold; }
+
+.articulo__texto {
+  font-size: 2.5em;
+  text-align: justify; }
+
+.articulo__imagen {
+  display: block;
+  margin: 4rem auto; }
